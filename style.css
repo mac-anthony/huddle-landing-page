@@ -296,29 +296,34 @@ footer ul li {
   border: 2px solid hsl(322, 100%, 66%);
   ;
   transition: all 0.4s ease-in-out;
+  border-radius: 100%;
 }
 
 .footer-four i:hover {
   background-color: hsl(322, 100%, 66%);
   border-radius: 100%;
   transition: all 0.4s ease-in-out;
+  border-radius: 100%;
 }
 
 .get-started button:hover {
   background-color: hsl(322, 100%, 66%);
   opacity: 0.5;
   transition: all 0.5s ease-in-out;
+  border-radius: 50px;
 }
 
 .message button:hover {
   background-color: hsl(322, 100%, 66%);
   opacity: 0.5;
   transition: all 0.5s ease-in-out;
+  border-radius: 50px;
 }
 
 .header-one button:hover {
   opacity: 0.5;
   transition: all 0.5s ease-in-out;
+  border-radius: 50px;
 }
 
 /* Styling for big screens */
