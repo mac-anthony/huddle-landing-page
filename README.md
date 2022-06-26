@@ -10,7 +10,7 @@ This is the [link](https://github.com/mac-anthony/huddle-landing-page) to the Gi
 
 ## Sample Website
 
-A live demo is already available via this [link]()
+A live demo is already available via this [link](https://mac-anthony.github.io/huddle-landing-page/)
 
 ## Tech Stack
 
